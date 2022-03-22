@@ -1,0 +1,178 @@
+<table width="100%"  style="border:1px solid #e6e6e6;">
+				<tbody>
+					<tr><td colspan="12" style="border:1px solid #e6e6e6;">&nbsp;</td></tr>					
+					<tr>		
+							<td style="border:1px solid #e6e6e6;"><b>Medida</b></td><td colspan="11" style="text-align: left;">Tasa Cada 100.000 Habitantes
+							</td>
+						</tr>
+						<tr>
+							<td style="border:1px solid #e6e6e6;"><b>Tipo de Datos</b></td><td colspan="11" style="text-align: left;border:1px solid #e6e6e6;">Casos Policiales
+							</td>
+						</tr>
+						<tr><td colspan="12" style="border:1px solid #e6e6e6;">&nbsp;</td></tr>						
+					<tr>
+						<td colspan="12" style="text-align: left; background-color:#eaeaea;border:1px solid #e6e6e6;"><b>Unidad Territorial</b></td>
+					</tr>
+					<tr>
+						<td style="border:1px solid #e6e6e6;text-align: left;"><b>Regiones</b></td><td colspan="11" style="border:1px solid #e6e6e6;text-align: left;">Región del Lib. Bernardo OHiggins</td>
+					</tr>						
+					<tr>
+						<td style="border:1px solid #e6e6e6;text-align: left;"><b>Provincias</b></td><td colspan="11" style="border:1px solid #e6e6e6;text-align: left;">Provincia de Cachapoal</td>
+					</tr>						
+					
+					<tr>
+						<td style="border:1px solid #e6e6e6;text-align: left;"><b>Comunas</b></td><td colspan="11" style="border:1px solid #e6e6e6;text-align: left;">Rancagua</td>
+					</tr>		<tr><td colspan="12" style="border:1px solid #e6e6e6;text-align: left;">&nbsp;</td></tr>					
+					<tr>
+						<td colspan="12" style="text-align: left; background-color:#eaeaea;border:1px solid #e6e6e6;"><b>Delito</b></td>
+					</tr>
+					<tr>
+						<td style="border:1px solid #e6e6e6;text-align: left;"><b>Grupo Delictual</b></td><td colspan="11" style="border:1px solid #e6e6e6;text-align: left;">Delitos de mayor connotación social,Infracción a ley de armas,Incivilidades,Abigeato,Abusos sexuales y otros delitos sexuales,Violencia intrafamiliar,Receptación,Robo frustrado</td>
+					</tr>					
+					<tr>
+						<td style="border:1px solid #e6e6e6;text-align: left;"><b>Delitos</b></td><td colspan="11" style="border:1px solid #e6e6e6;text-align: left;">Abandono de armas,Abigeato,Abusos sexuales y otros delitos sexuales,Amenazas,Comercio ambulante o clandestino,Consumo alcohol vía pública,Daños,Desórdenes,Ebriedad,Hallazgo de armas o explosivos,Homicidios,Hurtos,Lesiones leves,Lesiones menos graves, graves o gravísimas,Otras incivilidades,Otros ley de armas,Otros robos con fuerza,Porte de armas,Receptación,Riña pública,Robo con violencia o intimidación,Robo de objetos de o desde vehículo,Robo de vehículo motorizado,Robo en lugar habitado,Robo en lugar no habitado,Robo frustrado,Robo por sorpresa,Ruidos molestos,Tenencia ilegal de armas o explosivos,Violaciones,Violencia intrafamiliar a adulto mayor,Violencia intrafamiliar a hombre,Violencia intrafamiliar a mujer,Violencia intrafamiliar a niño,Violencia intrafamiliar no clasificado</td>
+					</tr>	<tr><td colspan="12" style="border:1px solid #e6e6e6;text-align: left;">&nbsp;</td></tr>	
+					<tr>
+						<td colspan="12" style="text-align: left; background-color:#eaeaea;border:1px solid #e6e6e6;"><b>Temporalidad</b></td>
+					</tr>
+					<tr>
+						<td style="border:1px solid #e6e6e6;text-align: left; font-weight:bold;">Año</td><td colspan="11" style="border:1px solid #e6e6e6;text-align: left;">2021</td>
+					</tr>				
+					<tr>
+						<td style="border:1px solid #e6e6e6;text-align: left;"><b>Trimestre</b></td><td colspan="11" style="border:1px solid #e6e6e6;text-align: left;">1,2,3,4</td>
+					</tr>			
+					<tr>
+						<td style="border:1px solid #e6e6e6;text-align: left;"><b>Mes</b></td><td colspan="11" style="border:1px solid #e6e6e6;text-align: left;">Octubre,Noviembre,Diciembre</td>
+					</tr>		<tr><td colspan="12" style="border:1px solid #e6e6e6;text-align: left;">&nbsp;</td></tr>						
+				</tbody>
+			</table><br><div class="cont-reportes col-md-12"><table width="100%" border="1" style="border:1px solid #ccc;min-width: 100px;">
+				  <thead>
+				  <tr>
+					<th colspan="1" style="border:1px solid #ccc;min-width: 100px;background:#1d89c8;"></th><th colspan="3" style="border:1px solid #ccc;background:#1d89c8;color:#ffffff;"><center>2021</center></th>
+				  </tr><tr>
+					<th colspan="1" style="border:1px solid #ccc;min-width: 100px;background:#1d89c8;"></th><th colspan="3"  style="border:1px solid #ccc;background:#1d89c8;color:white;"><center>TRIM 4</center></th>
+				  </tr><tr>
+					<th style="border:1px solid #ccc;min-width: 200px;background:#1d89c8;color:white; font-size:16px;">GRUPO DELICTUAL / DELITO</th><!--th>&nbsp;</th--><th style="border:1px solid #ccc;background:#1d89c8;color:white;"><center>10</center></th><th style="border:1px solid #ccc;background:#1d89c8;color:white;"><center>11</center></th><th style="border:1px solid #ccc;background:#1d89c8;color:white;"><center>12</center></th>
+				  </tr>
+				  </thead>
+				<tbody>
+				<tr class=" strong " style="background: #075F96; font-size:14px; color:#fff; font-weight:bold;">			
+							<td class="text-left strong" style="border:1px solid #ccc;min-width: 100px;">Delitos de mayor connotación social</td><!--td>1</td-->
+						<td style="border:1px solid #ccc;min-width:100px;">232,6111063402</td><td style="border:1px solid #ccc;min-width:100px;">204,6081641644</td><td style="border:1px solid #ccc;min-width:100px;">238,5850673377</td>
+						</tr><tr class="  " style=" font-size:13px;">			
+							<td class="text-left" style="border:1px solid #ccc;min-width: 100px;">Homicidios</td><!--td>2</td-->
+						<td style="border:1px solid #ccc;min-width:100px;">0,7467451247</td><td style="border:1px solid #ccc;min-width:100px;">0,3733725623</td><td style="border:1px solid #ccc;min-width:100px;">1,4934902494</td>
+						</tr><tr class="  " style=" font-size:13px;">			
+							<td class="text-left" style="border:1px solid #ccc;min-width: 100px;">Hurtos</td><!--td>2</td-->
+						<td style="border:1px solid #ccc;min-width:100px;">66,4603160972</td><td style="border:1px solid #ccc;min-width:100px;">59,7396099750</td><td style="border:1px solid #ccc;min-width:100px;">78,7816106546</td>
+						</tr><tr class="  " style=" font-size:13px;">			
+							<td class="text-left" style="border:1px solid #ccc;min-width: 100px;">Lesiones leves</td><!--td>2</td-->
+						<td style="border:1px solid #ccc;min-width:100px;">26,5094519264</td><td style="border:1px solid #ccc;min-width:100px;">29,4964324252</td><td style="border:1px solid #ccc;min-width:100px;">31,3632952369</td>
+						</tr><tr class="  " style=" font-size:13px;">			
+							<td class="text-left" style="border:1px solid #ccc;min-width: 100px;">Lesiones menos graves, graves o gravísimas</td><!--td>2</td-->
+						<td style="border:1px solid #ccc;min-width:100px;">7,8408238092</td><td style="border:1px solid #ccc;min-width:100px;">10,0810591833</td><td style="border:1px solid #ccc;min-width:100px;">7,0940786845</td>
+						</tr><tr class="  " style=" font-size:13px;">			
+							<td class="text-left" style="border:1px solid #ccc;min-width: 100px;">Otros robos con fuerza</td><!--td>2</td-->
+						<td style="border:1px solid #ccc;min-width:100px;">6,7207061222</td><td style="border:1px solid #ccc;min-width:100px;">5,9739609975</td><td style="border:1px solid #ccc;min-width:100px;">4,4804707481</td>
+						</tr><tr class="  " style=" font-size:13px;">			
+							<td class="text-left" style="border:1px solid #ccc;min-width: 100px;">Robo con violencia o intimidación</td><!--td>2</td-->
+						<td style="border:1px solid #ccc;min-width:100px;">20,1621183666</td><td style="border:1px solid #ccc;min-width:100px;">16,0550201808</td><td style="border:1px solid #ccc;min-width:100px;">25,3893342394</td>
+						</tr><tr class="  " style=" font-size:13px;">			
+							<td class="text-left" style="border:1px solid #ccc;min-width: 100px;">Robo de objetos de o desde vehículo</td><!--td>2</td-->
+						<td style="border:1px solid #ccc;min-width:100px;">22,7757263030</td><td style="border:1px solid #ccc;min-width:100px;">20,9088634913</td><td style="border:1px solid #ccc;min-width:100px;">17,9218829925</td>
+						</tr><tr class="  " style=" font-size:13px;">			
+							<td class="text-left" style="border:1px solid #ccc;min-width: 100px;">Robo de vehículo motorizado</td><!--td>2</td-->
+						<td style="border:1px solid #ccc;min-width:100px;">19,0420006795</td><td style="border:1px solid #ccc;min-width:100px;">14,9349024938</td><td style="border:1px solid #ccc;min-width:100px;">20,5354909289</td>
+						</tr><tr class="  " style=" font-size:13px;">			
+							<td class="text-left" style="border:1px solid #ccc;min-width: 100px;">Robo en lugar habitado</td><!--td>2</td-->
+						<td style="border:1px solid #ccc;min-width:100px;">27,2561970511</td><td style="border:1px solid #ccc;min-width:100px;">19,7887458042</td><td style="border:1px solid #ccc;min-width:100px;">16,4283927431</td>
+						</tr><tr class="  " style=" font-size:13px;">			
+							<td class="text-left" style="border:1px solid #ccc;min-width: 100px;">Robo en lugar no habitado</td><!--td>2</td-->
+						<td style="border:1px solid #ccc;min-width:100px;">26,5094519264</td><td style="border:1px solid #ccc;min-width:100px;">14,9349024938</td><td style="border:1px solid #ccc;min-width:100px;">17,5485104302</td>
+						</tr><tr class="  " style=" font-size:13px;">			
+							<td class="text-left" style="border:1px solid #ccc;min-width: 100px;">Robo por sorpresa</td><!--td>2</td-->
+						<td style="border:1px solid #ccc;min-width:100px;">7,4674512469</td><td style="border:1px solid #ccc;min-width:100px;">9,7076866209</td><td style="border:1px solid #ccc;min-width:100px;">14,1881573691</td>
+						</tr><tr class="  " style=" font-size:13px;">			
+							<td class="text-left" style="border:1px solid #ccc;min-width: 100px;">Violaciones</td><!--td>2</td-->
+						<td style="border:1px solid #ccc;min-width:100px;">1,1201176870</td><td style="border:1px solid #ccc;min-width:100px;">2,6136079364</td><td style="border:1px solid #ccc;min-width:100px;">3,3603530611</td>
+						</tr><tr class=" strong " style="background: #075F96; font-size:14px; color:#fff; font-weight:bold;">			
+							<td class="text-left strong" style="border:1px solid #ccc;min-width: 100px;">Infracción a ley de armas</td><!--td>1</td-->
+						<td style="border:1px solid #ccc;min-width:100px;">3,3603530611</td><td style="border:1px solid #ccc;min-width:100px;">2,2402353741</td><td style="border:1px solid #ccc;min-width:100px;">4,4804707481</td>
+						</tr><tr class="  " style=" font-size:13px;">			
+							<td class="text-left" style="border:1px solid #ccc;min-width: 100px;">Abandono de armas</td><!--td>2</td-->
+						<td style="border:1px solid #ccc;min-width:100px;">0,0000000000</td><td style="border:1px solid #ccc;min-width:100px;">0,0000000000</td><td style="border:1px solid #ccc;min-width:100px;">0,0000000000</td>
+						</tr><tr class="  " style=" font-size:13px;">			
+							<td class="text-left" style="border:1px solid #ccc;min-width: 100px;">Hallazgo de armas o explosivos</td><!--td>2</td-->
+						<td style="border:1px solid #ccc;min-width:100px;">0,0000000000</td><td style="border:1px solid #ccc;min-width:100px;">0,0000000000</td><td style="border:1px solid #ccc;min-width:100px;">0,0000000000</td>
+						</tr><tr class="  " style=" font-size:13px;">			
+							<td class="text-left" style="border:1px solid #ccc;min-width: 100px;">Otros ley de armas</td><!--td>2</td-->
+						<td style="border:1px solid #ccc;min-width:100px;">2,2402353741</td><td style="border:1px solid #ccc;min-width:100px;">0,7467451247</td><td style="border:1px solid #ccc;min-width:100px;">2,9869804988</td>
+						</tr><tr class="  " style=" font-size:13px;">			
+							<td class="text-left" style="border:1px solid #ccc;min-width: 100px;">Porte de armas</td><!--td>2</td-->
+						<td style="border:1px solid #ccc;min-width:100px;">1,1201176870</td><td style="border:1px solid #ccc;min-width:100px;">1,4934902494</td><td style="border:1px solid #ccc;min-width:100px;">1,1201176870</td>
+						</tr><tr class="  " style=" font-size:13px;">			
+							<td class="text-left" style="border:1px solid #ccc;min-width: 100px;">Tenencia ilegal de armas o explosivos</td><!--td>2</td-->
+						<td style="border:1px solid #ccc;min-width:100px;">0,0000000000</td><td style="border:1px solid #ccc;min-width:100px;">0,0000000000</td><td style="border:1px solid #ccc;min-width:100px;">0,3733725623</td>
+						</tr><tr class=" strong " style="background: #075F96; font-size:14px; color:#fff; font-weight:bold;">			
+							<td class="text-left strong" style="border:1px solid #ccc;min-width: 100px;">Incivilidades</td><!--td>1</td-->
+						<td style="border:1px solid #ccc;min-width:100px;">257,2536954549</td><td style="border:1px solid #ccc;min-width:100px;">301,6850303739</td><td style="border:1px solid #ccc;min-width:100px;">339,3956591706</td>
+						</tr><tr class="  " style=" font-size:13px;">			
+							<td class="text-left" style="border:1px solid #ccc;min-width: 100px;">Amenazas</td><!--td>2</td-->
+						<td style="border:1px solid #ccc;min-width:100px;">77,2881204052</td><td style="border:1px solid #ccc;min-width:100px;">79,1549832169</td><td style="border:1px solid #ccc;min-width:100px;">86,9958070261</td>
+						</tr><tr class="  " style=" font-size:13px;">			
+							<td class="text-left" style="border:1px solid #ccc;min-width: 100px;">Comercio ambulante o clandestino</td><!--td>2</td-->
+						<td style="border:1px solid #ccc;min-width:100px;">17,9218829925</td><td style="border:1px solid #ccc;min-width:100px;">57,4993746010</td><td style="border:1px solid #ccc;min-width:100px;">92,9697680236</td>
+						</tr><tr class="  " style=" font-size:13px;">			
+							<td class="text-left" style="border:1px solid #ccc;min-width: 100px;">Consumo alcohol vía pública</td><!--td>2</td-->
+						<td style="border:1px solid #ccc;min-width:100px;">61,9798453491</td><td style="border:1px solid #ccc;min-width:100px;">64,5934532855</td><td style="border:1px solid #ccc;min-width:100px;">62,3532179114</td>
+						</tr><tr class="  " style=" font-size:13px;">			
+							<td class="text-left" style="border:1px solid #ccc;min-width: 100px;">Daños</td><!--td>2</td-->
+						<td style="border:1px solid #ccc;min-width:100px;">64,5934532855</td><td style="border:1px solid #ccc;min-width:100px;">71,6875319700</td><td style="border:1px solid #ccc;min-width:100px;">72,0609045324</td>
+						</tr><tr class="  " style=" font-size:13px;">			
+							<td class="text-left" style="border:1px solid #ccc;min-width: 100px;">Desórdenes</td><!--td>2</td-->
+						<td style="border:1px solid #ccc;min-width:100px;">5,9739609975</td><td style="border:1px solid #ccc;min-width:100px;">0,7467451247</td><td style="border:1px solid #ccc;min-width:100px;">1,8668628117</td>
+						</tr><tr class="  " style=" font-size:13px;">			
+							<td class="text-left" style="border:1px solid #ccc;min-width: 100px;">Ebriedad</td><!--td>2</td-->
+						<td style="border:1px solid #ccc;min-width:100px;">2,6136079364</td><td style="border:1px solid #ccc;min-width:100px;">2,6136079364</td><td style="border:1px solid #ccc;min-width:100px;">5,2272158728</td>
+						</tr><tr class="  " style=" font-size:13px;">			
+							<td class="text-left" style="border:1px solid #ccc;min-width: 100px;">Otras incivilidades</td><!--td>2</td-->
+						<td style="border:1px solid #ccc;min-width:100px;">26,5094519264</td><td style="border:1px solid #ccc;min-width:100px;">25,0159616770</td><td style="border:1px solid #ccc;min-width:100px;">17,5485104302</td>
+						</tr><tr class="  " style=" font-size:13px;">			
+							<td class="text-left" style="border:1px solid #ccc;min-width: 100px;">Riña pública</td><!--td>2</td-->
+						<td style="border:1px solid #ccc;min-width:100px;">0,3733725623</td><td style="border:1px solid #ccc;min-width:100px;">0,3733725623</td><td style="border:1px solid #ccc;min-width:100px;">0,3733725623</td>
+						</tr><tr class="  " style=" font-size:13px;">			
+							<td class="text-left" style="border:1px solid #ccc;min-width: 100px;">Ruidos molestos</td><!--td>2</td-->
+						<td style="border:1px solid #ccc;min-width:100px;">0,0000000000</td><td style="border:1px solid #ccc;min-width:100px;">0,0000000000</td><td style="border:1px solid #ccc;min-width:100px;">0,0000000000</td>
+						</tr><tr class=" strong " style="background: #075F96; font-size:14px; color:#fff; font-weight:bold;">			
+							<td class="text-left strong" style="border:1px solid #ccc;min-width: 100px;">Abigeato</td><!--td>1</td-->
+						<td style="border:1px solid #ccc;min-width:100px;">0,0000000000</td><td style="border:1px solid #ccc;min-width:100px;">0,0000000000</td><td style="border:1px solid #ccc;min-width:100px;">0,0000000000</td>
+						</tr><tr class=" strong " style="background: #075F96; font-size:14px; color:#fff; font-weight:bold;">			
+							<td class="text-left strong" style="border:1px solid #ccc;min-width: 100px;">Abusos sexuales y otros delitos sexuales</td><!--td>1</td-->
+						<td style="border:1px solid #ccc;min-width:100px;">9,3343140586</td><td style="border:1px solid #ccc;min-width:100px;">11,5745494327</td><td style="border:1px solid #ccc;min-width:100px;">10,0810591833</td>
+						</tr><tr class=" strong " style="background: #075F96; font-size:14px; color:#fff; font-weight:bold;">			
+							<td class="text-left strong" style="border:1px solid #ccc;min-width: 100px;">Violencia intrafamiliar</td><!--td>1</td-->
+						<td style="border:1px solid #ccc;min-width:100px;">82,5153362780</td><td style="border:1px solid #ccc;min-width:100px;">80,6484734663</td><td style="border:1px solid #ccc;min-width:100px;">81,3952185910</td>
+						</tr><tr class="  " style=" font-size:13px;">			
+							<td class="text-left" style="border:1px solid #ccc;min-width: 100px;">Violencia intrafamiliar a adulto mayor</td><!--td>2</td-->
+						<td style="border:1px solid #ccc;min-width:100px;">0,7467451247</td><td style="border:1px solid #ccc;min-width:100px;">0,3733725623</td><td style="border:1px solid #ccc;min-width:100px;">1,1201176870</td>
+						</tr><tr class="  " style=" font-size:13px;">			
+							<td class="text-left" style="border:1px solid #ccc;min-width: 100px;">Violencia intrafamiliar a hombre</td><!--td>2</td-->
+						<td style="border:1px solid #ccc;min-width:100px;">10,8278043080</td><td style="border:1px solid #ccc;min-width:100px;">9,7076866209</td><td style="border:1px solid #ccc;min-width:100px;">9,7076866209</td>
+						</tr><tr class="  " style=" font-size:13px;">			
+							<td class="text-left" style="border:1px solid #ccc;min-width: 100px;">Violencia intrafamiliar a mujer</td><!--td>2</td-->
+						<td style="border:1px solid #ccc;min-width:100px;">64,9668258478</td><td style="border:1px solid #ccc;min-width:100px;">63,8467081608</td><td style="border:1px solid #ccc;min-width:100px;">62,7265904738</td>
+						</tr><tr class="  " style=" font-size:13px;">			
+							<td class="text-left" style="border:1px solid #ccc;min-width: 100px;">Violencia intrafamiliar a niño</td><!--td>2</td-->
+						<td style="border:1px solid #ccc;min-width:100px;">1,4934902494</td><td style="border:1px solid #ccc;min-width:100px;">2,2402353741</td><td style="border:1px solid #ccc;min-width:100px;">2,2402353741</td>
+						</tr><tr class="  " style=" font-size:13px;">			
+							<td class="text-left" style="border:1px solid #ccc;min-width: 100px;">Violencia intrafamiliar no clasificado</td><!--td>2</td-->
+						<td style="border:1px solid #ccc;min-width:100px;">4,4804707481</td><td style="border:1px solid #ccc;min-width:100px;">4,4804707481</td><td style="border:1px solid #ccc;min-width:100px;">5,6005884352</td>
+						</tr><tr class=" strong " style="background: #075F96; font-size:14px; color:#fff; font-weight:bold;">			
+							<td class="text-left strong" style="border:1px solid #ccc;min-width: 100px;">Receptación</td><!--td>1</td-->
+						<td style="border:1px solid #ccc;min-width:100px;">3,3603530611</td><td style="border:1px solid #ccc;min-width:100px;">4,4804707481</td><td style="border:1px solid #ccc;min-width:100px;">6,3473335598</td>
+						</tr><tr class=" strong " style="background: #075F96; font-size:14px; color:#fff; font-weight:bold;">			
+							<td class="text-left strong" style="border:1px solid #ccc;min-width: 100px;">Robo frustrado</td><!--td>1</td-->
+						<td style="border:1px solid #ccc;min-width:100px;">5,6005884352</td><td style="border:1px solid #ccc;min-width:100px;">2,9869804988</td><td style="border:1px solid #ccc;min-width:100px;">3,7337256234</td>
+						</tr>
+					</tbody>
+					</table></div>
